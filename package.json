@@ -1,0 +1,29 @@
+{
+  "name": "cryptozombie",
+  "version": "1.0.0",
+  "description": "solidity.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/piadelosreyes/solidity-cryptozombie"
+  },
+  "keywords": [
+    "solidity",
+    "loom",
+    "getting-started",
+    "with",
+    "solidity",
+    "crypto",
+    "ethereum",
+    "dApps",
+    "cryptozombie"
+  ],
+  "author": "",
+  "license": "ISC"
+}
